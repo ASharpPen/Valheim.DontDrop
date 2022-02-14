@@ -1,0 +1,9 @@
+{
+  "name": "Dont_Drop",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/ASharpPen/Valheim.DontDrop",
+  "description": "Did you spawn a level 1000 troll? This mod simply stops the loot from dropping and crashing your game.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1700"
+  ]
+}
